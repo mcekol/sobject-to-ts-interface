@@ -1,0 +1,15 @@
+{
+  "name": "sobject-to-ts-interface",
+  "version": "0.0.1",
+  "description": "A utility to create typescript interfaces from SalesForce .object files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marko Cekol",
+  "license": "MIT",
+  "dependencies": {
+    "fast-xml-parser": "^3.13.0",
+    "minimist": "^1.2.0"
+  }
+}
