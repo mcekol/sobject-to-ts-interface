@@ -1,0 +1,1 @@
+# sobject-to-ts-interface
